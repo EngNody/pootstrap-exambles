@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+    /* background-color: red; */
+}
+
+*,*:before,*:after{
+    margin: 30px;
+    text-align: center;
+}
+
+
+#butname{
+    width: 50%;
+    height: 200px;
+    box-shadow: 0 0 30px rgba(255, 0, 0, 0.295);
+    margin:30px auto;
+}
+
+
+
